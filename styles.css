@@ -55,11 +55,14 @@ footer {
     margin-bottom: 30px; /* Espacement supplémentaire en bas */
     color: #674ea7; /* Couleur du texte principale */
     background-color: #f7f7f7; /* Fond plus clair */
+    font-family: 'Lobster', cursive; /* Utilisation de la police Lobster */
+    font-size: 1.5em; /* Taille de texte encore plus augmentée */
 }
 
 .animated-info {
     font-style: italic; /* Style italique pour l'info d'animation */
     margin-bottom: 15px; /* Espacement en bas */
+    font-size: 1.4em; /* Taille de texte encore plus augmentée */
 }
 
 .concert {
@@ -68,6 +71,7 @@ footer {
 
 .concert h3 {
     margin-bottom: 10px;
+    font-size: 1.6em; /* Taille de texte encore plus augmentée */
 }
 
 .concert img {
@@ -78,8 +82,16 @@ footer {
 
 .concert-time {
     font-weight: bold; /* Mettre en gras */
+    font-size: 1.4em; /* Taille de texte encore plus augmentée */
 }
+
+
 .Titre{
 
     font-size: 3em;
+}
+
+.SubTitre{
+
+    font-size: 1.5em;
 }
